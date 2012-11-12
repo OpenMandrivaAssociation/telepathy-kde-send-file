@@ -1,0 +1,14 @@
+Index: telepathy-kde-send-file.desktop
+===================================================================
+--- a/telepathy-kde-send-file.desktop
++++ b/telepathy-kde-send-file.desktop	2011-11-28 01:53:06.678311350 -0300
+@@ -1,8 +1,8 @@
+ [Desktop Entry]
++Name=Send file to IM contact
+ Type=Service
+ ServiceTypes=KonqPopupMenu/Plugin
+ Actions=sendFile;
+-MimeType=all/allfiles;
+ 
+ [Desktop Action sendFile]
+ Name=Send file to IM contact
