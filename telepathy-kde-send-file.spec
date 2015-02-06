@@ -3,7 +3,7 @@
 Summary:	File Manager plugin to launch a file transfer job with a specified contact
 Name:		telepathy-kde-send-file
 Version:	0.5.1
-Release:	1
+Release:	2
 Url:		https://projects.kde.org/projects/playground/network/telepathy/telepathy-send-file
 Source0:	ftp://ftp.gtlib.cc.gatech.edu/pub/kde/unstable/telepathy-kde/%version/src/%srcname-%version.tar.bz2
 License:	GPLv2+
