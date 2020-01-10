@@ -23,7 +23,7 @@ A File manager plugin to launch a file transfer job with a specified contact.
 
 %prep
 %setup -q -n %srcname-%version
-%apply_patches
+%autopatch -p1
 
 %build
 %cmake_kde4
